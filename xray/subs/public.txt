@@ -1,0 +1,3 @@
+vless://c61daf3e-83ff-424f-a4ff-5bfcb46f0b30@ru.nativemind.net:443?encryption=none&flow=&security=reality&sni=ru.nativemind.net&fp=chrome&pbk=rLCmXWNVoRBiknloDUsbNS5ONjiI70v-BWQpWq0HCQ0&sid=108108108108#%F0%9F%87%B7%F0%9F%87%BA+%F0%9F%99%8F+ruserver+%28RU%29
+vless://c61daf3e-83ff-424f-a4ff-5bfcb46f0b30@en.nativemind.net:443?encryption=none&flow=&security=reality&sni=en.nativemind.net&fp=chrome&pbk=rLCmXWNVoRBiknloDUsbNS5ONjiI70v-BWQpWq0HCQ0&sid=108108108108#%F0%9F%87%BA%F0%9F%87%B8+%F0%9F%99%8F+usserver+%28USA%29
+vless://c61daf3e-83ff-424f-a4ff-5bfcb46f0b30@hk.nativemind.net:443?encryption=none&flow=&security=reality&sni=hk.nativemind.net&fp=chrome&pbk=rLCmXWNVoRBiknloDUsbNS5ONjiI70v-BWQpWq0HCQ0&sid=108108108108#%F0%9F%87%AD%F0%9F%87%B0+%F0%9F%99%8F+hkserver+%28HK%29
