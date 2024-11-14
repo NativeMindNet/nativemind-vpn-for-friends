@@ -1,0 +1,1 @@
+sudo ./start_bg1.sh

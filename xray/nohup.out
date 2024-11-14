@@ -1,0 +1,12 @@
+Xray 24.9.30 (Xray, Penetrates Everything.) 3b06af8 (go1.23.1 linux/amd64)
+A unified platform for anti-censorship.
+2024/11/11 04:19:21 Using default config:  /home/anton/proj/xray/config.json
+2024/11/11 04:19:21 [Info] infra/conf/serial: Reading config: &{Name:/home/anton/proj/xray/config.json Format:json}
+2024/11/11 04:19:21 [Warning] core: Xray 24.9.30 started
+Xray 24.9.30 (Xray, Penetrates Everything.) 3b06af8 (go1.23.1 linux/amd64)
+A unified platform for anti-censorship.
+2024/11/11 04:31:35 Using default config:  /home/anton/proj/xray/config.json
+2024/11/11 04:31:35 [Info] infra/conf/serial: Reading config: &{Name:/home/anton/proj/xray/config.json Format:json}
+2024/11/11 04:31:35 [Warning] core: Xray 24.9.30 started
+sudo: unable to read password: Input/output error
+sudo: a password is required
