@@ -1,0 +1,43 @@
+{
+    "log": {
+        "loglevel": "warning"
+    },
+    "inbounds": [
+        {
+            "listen": "0.0.0.0",
+            "port": 443,
+            "protocol": "vless",
+            "settings": {
+                "clients": [
+                    {
+                        "id": "c61daf3e-83ff-424f-a4ff-5bfcb46f0b30",
+                        "flow": ""
+                    }
+                ],
+                "decryption": "none"
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "security": "reality",
+                "realitySettings": {
+                    "show": false,
+                    "dest": "nativemind.net:443",
+                    "xver": 0,
+                    "serverNames": [
+                        "nativemind.net"
+                    ],
+                    "privateKey": "0EQKr_nTnrfn2FPCivJhnyso09RvjpSa476ZGPsA9kc",
+                    "shortIds": [
+                        "108108108108"
+                    ]
+                }
+            }
+        }
+    ],
+    "outbounds": [
+        {
+            "protocol": "freedom",
+            "tag": "direct"
+        }
+    ]
+}
