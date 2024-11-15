@@ -4,7 +4,7 @@
     },
     "inbounds": [
         {
-            "listen": "0.0.0.0",
+            "listen": "::",
             "port": 443,
             "protocol": "vless",
             "settings": {
@@ -21,10 +21,23 @@
                 "security": "reality",
                 "realitySettings": {
                     "show": false,
-                    "dest": "en.nativemind.net:443",
+                    "dest": "anton4385.trueddns.com:13195",
                     "xver": 0,
                     "serverNames": [
-                        "en.nativemind.net"
+                        "nativemind.net",
+                        "www.nativemind.net",
+                        "en.nativemind.net",
+                        "ru.nativemind.net",
+                        "hi.nativemind.net",
+                        "cn.nativemind.net",
+                        "dmny.org",
+                        "dmny.in",
+                        "dmny.ru",
+                        "dmny.us",
+                        "www.dmny.org",
+                        "www.dmny.in",
+                        "www.dmny.ru",
+                        "www.dmny.us",
                     ],
                     "privateKey": "0EQKr_nTnrfn2FPCivJhnyso09RvjpSa476ZGPsA9kc",
                     "shortIds": [
