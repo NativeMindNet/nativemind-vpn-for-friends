@@ -1,0 +1,1 @@
+sudo ip -6 addr add 2001:19f0:ac00:34f1:bc36:34db:ce0b:3713 dev enp1s0
